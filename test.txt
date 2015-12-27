@@ -1,0 +1,5 @@
+E:/LH_projectLibrary/mygit/Hello_World
+
+project nam:Hello_World
+2015-12-27 12:45:05
+I create this project int local machine,add it into git and commit it.
